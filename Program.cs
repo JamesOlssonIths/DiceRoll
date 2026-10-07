@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         try // coden är såpass simple att det aldrig används men visar att jag kan :)
         {
